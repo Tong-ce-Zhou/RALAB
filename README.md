@@ -1,5 +1,5 @@
 # RALAB
-The source codes of RALAB
+The source codes of RALAB, which will be provided here after the batch-version is completed.
 
 Basic steps:
 
